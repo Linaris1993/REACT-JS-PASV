@@ -11,11 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9a53d9-e56c-4209-9b87-092b3b4ebba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/React-JS-PASV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoList/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoList/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725843888826</updated>
-      <workItem from="1725843890040" duration="4987000" />
+      <workItem from="1725843890040" duration="5288000" />
+      <workItem from="1727035859317" duration="12151000" />
     </task>
     <servers />
   </component>
@@ -71,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
